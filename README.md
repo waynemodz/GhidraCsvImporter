@@ -8,6 +8,8 @@ Table Import Script: Automatically labels and comments known data tables from CS
 
 Advanced Import Script: Extends basic functionality by supporting label imports for both data and function addresses, enhancing project readability and analysis efficiency.
 
+Usage: The script will create the follow menu items:  CSV Import > Import Labels & CSV Import > Import Labels With Functions
+
 These tools help accelerate analysis by integrating pre-defined symbol information directly into your Ghidra project. Compatible with any architecture supported by Ghidra.
 
 NOTE (for dummies): You must parse the A2L to CSV first.
